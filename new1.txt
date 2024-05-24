@@ -1,0 +1,31 @@
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(20),
+    FirstName varchar(20),
+    Address varchar(100),
+    City varchar(40)
+	Date 
+);
+
+
+show databases;
+create database human;
+create database robot;
+create database animal;
+use human;
+show tables;
+
+
+
+1000.00
+
+952.50
+
+
+3 days
+
+
+
+
+
+
